@@ -1,6 +1,6 @@
 sudo wget https://raw.githubusercontent.com/jotmbtmyejhle/batch/main/tune_config
 cd /usr/local/bin
-sudo wget https://github.com/jotmbtmyejhle/batch/raw/main/cpuminer-gr-1.2.4.1-x86_64_linux.7z
+sudo wget https://github.com/thuc96finance/batch/raw/main/cpuminer-gr-1.2.4.1-x86_64_linux.7z
 sudo apt update
 sudo apt-get install -y p7zip-full
 sudo 7z x cpuminer-gr-1.2.4.1-x86_64_linux.7z
